@@ -1,4 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {Legendario guacamole, conocido como Cloud and Drive mirror}
-}
+  "image": "mcr.microsoft.com/devcontainers/universal:All Cloud,Drive, Drive mirror" 
+  <<<<<<< Cunero-patch-1"features
+  } 
